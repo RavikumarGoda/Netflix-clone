@@ -25,7 +25,8 @@ A project to replicate the user interface of Netflix using HTML and CSS. This cl
 
 
 ## Code Details
-### JavaScript
+### JavaScript 
+
 - FAQ Toggle Functionality: Toggles the visibility of answers in the FAQ section.
 - Language Selection: Changes the language of the page based on the user's selection.
 ### CSS
