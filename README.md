@@ -23,6 +23,7 @@ A project to replicate the user interface of Netflix using HTML and CSS. This cl
 - `scripts/` - Contains the JS file
     - `app.js` - Complete Functionality (FAQ)
 
+
 ## Code Details
 ### JavaScript
 - FAQ Toggle Functionality: Toggles the visibility of answers in the FAQ section.
