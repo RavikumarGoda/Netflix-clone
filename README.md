@@ -33,6 +33,3 @@ A project to replicate the user interface of Netflix using HTML and CSS. This cl
 - Variables: Defined for font, color, and button styles.
 - Layout: Uses Flexbox and Grid for responsive design.
 - Styling: Consistent styling for buttons, text, and layout elements.
-
-- 
-
